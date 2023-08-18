@@ -1,4 +1,4 @@
-# Python-Store-Sales-Aanalysis-EDA-
+# Python-Sales-Aanalysis-EDA
 
 Python project for beginners- Analyze Festive sales data to improve customer experience and sales
 
