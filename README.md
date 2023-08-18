@@ -1,11 +1,11 @@
 # Python-Sales-Aanalysis-EDA
 
-Python project to Analyze Festive sales data to improve customer experience and sales
+Python project for analyzing festive sales data to enhance customer experience and boost sales.
 
-Performed Data Cleaning and Manipulation
+Conducted thorough data cleaning and manipulation.
 
-Performed Exploratory Data Analysis (EDA) using  pandas, matloptlib and seaborn libraries
+Executed Exploratory Data Analysis (EDA) utilizing pandas, matplotlib, and seaborn libraries.
 
-Improved customer experience my identifying potential customers accross diffrent states,occupation,gender and age groups
+Enhanced customer experience by identifying potential customers across different states, occupations, genders, and age groups.
 
-Improved sales by identifing most selling product categories and products which can help to plan inventory and meet the demands
+Increased sales by pinpointing the highest-selling product categories and specific products, aiding inventory planning and demand fulfillment.
