@@ -1,6 +1,6 @@
 # Python-Sales-Aanalysis-EDA
 
-Python project for beginners- Analyze Festive sales data to improve customer experience and sales
+Python project to Analyze Festive sales data to improve customer experience and sales
 
 Performed Data Cleaning and Manipulation
 
