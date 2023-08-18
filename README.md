@@ -8,4 +8,4 @@ Performed Exploratory Data Analysis (EDA) using  pandas, matloptlib and seaborn 
 
 Improved customer experience my identifying potential customers accross diffrent states,occupation,gender and age groups
 
-Improved sales by identifing most selling product categories and products which can help tp plan inventory and meet the demands
+Improved sales by identifing most selling product categories and products which can help to plan inventory and meet the demands
